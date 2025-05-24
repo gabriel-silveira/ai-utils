@@ -2,4 +2,4 @@
 
 venv/
 
-crawled/*.md
+web-crawler/crawled/*.md
