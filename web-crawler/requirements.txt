@@ -1,0 +1,4 @@
+flask
+firecrawl-py
+langchain-openai
+python-dotenv
