@@ -1,0 +1,1 @@
+Nesta pasta serão guardados os arquivos extraídos do site.
